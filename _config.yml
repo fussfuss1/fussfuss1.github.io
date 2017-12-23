@@ -3,9 +3,9 @@ title: 负4的Blog
 subtitle: Stay hungry, Stay foolish
 welcome_message: What hurts more, the pain of hard work or the pain of regret?
 description: 我是负4, 一个喜爱编程，想要变好的程序员！
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://github.com/fussfuss1/">@负4</a>
 
-url: "http://vno.onevcat.com"
+url: "fussfuss1.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -37,10 +37,10 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
+    weibo: fussfuss1
+    github: fussfuss1
+    #twitter: onevcat
+    #gplus: 107108267983477358170
     mail: fussfuss1@163.com
 
 # Google Analytics
